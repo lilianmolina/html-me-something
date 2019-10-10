@@ -1,0 +1,26 @@
+header, h1, h3, h2, h4, p {
+    padding: 15px 375px;
+}
+
+img {
+    background-color: antiquewhite;
+    padding: 20px 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.font {
+    font-family: Helvetica;
+}
+.cursive {
+    font-family: cursive;
+}
+
+body {
+    background-color: rosybrown;
+}
+.size {
+    font-size: 25px;
+}
